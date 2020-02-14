@@ -1,0 +1,11 @@
+*{
+    margin: 10px auto;
+    padding: 0px;
+    border-color: 1px solid black;
+}
+
+table thead{
+    background-color: darkslateblue;
+    padding: 5px;
+    color: white;
+}
